@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BikeList</string>
+    <string name="NETWORK_NOT_REACHABLE">Network Not Reached</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_spinner">bike_spinner</string>
+    <string name="list_preference">Choose URL</string>
+    <string-array name="JSON_URL_NAME" />
+    <string-array name="JSON_URL" />
+</resources>
