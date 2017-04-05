@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <PreferenceCategory>
+        <ListPreference
+            android:key="listPref"
+            android:title="@string/list_preference"
+            android:entries="@array/JSON_URL_NAME"
+            android:entryValues="@array/JSON_URL"
+            />
+
+    </PreferenceCategory>
+</PreferenceScreen>
